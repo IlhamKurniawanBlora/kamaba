@@ -1,39 +1,39 @@
 <script setup>
 const features = [
   {
-    title: "Bring Your Own Framework",
+    title: "Perwakilan Mahasiswa",
     description:
-      "Build your site using Vue, web components, or just plain ol' HTML + JavaScript.",
-    icon: "bx:bxs-briefcase",
+      "Menjadi suara dan perwakilan mahasiswa di berbagai forum, baik di tingkat kampus, regional, atau nasional. Organisasi mahasiswa bertugas untuk menyampaikan aspirasi, kebutuhan, dan pandangan mahasiswa kepada pihak-pihak terkait.",
+    icon: "bx:bxs-bulb",
   },
   {
-    title: "100% Static HTML, No JS",
+    title: "Pengembangan Soft Skills",
     description:
-      "Nuxt renders your entire page to static HTML, removing all JavaScript from your final build by default.",
-    icon: "bx:bxs-window-alt",
+      "Memberikan platform bagi mahasiswa untuk mengembangkan keterampilan interpersonal, kepemimpinan, dan kemampuan berkomunikasi. Melalui kegiatan organisasi, mahasiswa dapat memperoleh pengalaman praktis yang berharga di luar lingkup akademis.",
+    icon: "bx:bxs-happy",
   },
   {
-    title: "On-Demand Components",
+    title: "Pelayanan Sosial dan Kemanusiaan",
     description:
-      "Need some JS? Nuxt can automatically hydrate interactive components when they become visible on the page.  ",
-    icon: "bx:bxs-data",
+      "Melakukan kegiatan amal, pengabdian masyarakat, dan proyek kemanusiaan. Organisasi mahasiswa dapat menjadi agen perubahan positif dengan memberikan kontribusi pada masyarakat, membantu yang membutuhkan, dan menciptakan dampak positif di lingkungan sekitar.",
+    icon: "bx:bxs-donate-heart",
   },
   {
-    title: "Broad Integration",
+    title: "Pengelolaan Konflik dan Mediasi",
     description:
-      "Nuxt supports TypeScript, Scoped CSS, CSS Modules, Sass, Tailwind, Markdown, MDX, and any other npm packages.",
-    icon: "bx:bxs-bot",
+      "Organisasi mahasiswa dapat berperan dalam menciptakan lingkungan yang harmonis di antara mahasiswa dan dalam menangani konflik yang mungkin timbul di antara anggotanya. Dengan melibatkan mahasiswa dalam kegiatan mediasi, organisasi dapat membantu membangun hubungan yang sehat dan saling mendukung di antara anggotanya.",
+    icon: "bx:bxs-home-heart",
   },
   {
-    title: "SEO Enabled",
+    title: "Pengembangan Minat dan Bakat",
     description:
-      "Automatic sitemaps, RSS feeds, pagination and collections take the pain out of SEO and syndication. It just works!",
-    icon: "bx:bxs-file-find",
+      "Memberikan wadah bagi mahasiswa untuk mengembangkan minat dan bakat di luar akademis. Organisasi mahasiswa seringkali menyelenggarakan kegiatan seni, olahraga, dan budaya yang memungkinkan mahasiswa mengeksplorasi dan mengasah kreativitas serta bakat mereka.",
+    icon: "bx:bxs-book-open",
   },
   {
-    title: "Community",
+    title: "Pengembangan Komunitas Kehidupan Masyarakat",
     description:
-      "Nuxt is an open source project powered by hundreds of contributors making thousands of individual contributions.",
+      "Organisasi mahasiswa dapat berperan dalam meningkatkan kesadaran dan keterlibatan mahasiswa dalam kehidupan masyarakat sekitar. Melalui berbagai kegiatan sosial, edukasi, dan proyek pembangunan masyarakat, organisasi tersebut dapat memberikan kontribusi positif dalam meningkatkan kualitas hidup masyarakat sekitar kampus.",
     icon: "bx:bxs-user",
   },
 ];
@@ -42,11 +42,10 @@ const features = [
 <template>
   <div class="mt-16 md:mt-0">
     <h2 class="text-4xl lg:text-5xl font-bold lg:tracking-tight">
-      Everything you need to start a website
+      What do we do?
     </h2>
     <p class="text-lg mt-4 text-slate-600">
-      Nuxt comes batteries included. It takes the best parts of state-of-the-art
-      tools and adds its own innovations.
+      As a regional student organization, we have several activities to develop ourselves
     </p>
   </div>
 

@@ -1,15 +1,26 @@
 <template>
   <div class="mt-24">
-    <h2 class="text-center text-slate-500">Works with your technologies</h2>
+    <h2 class="text-center text-slate-500">Open for Sponsorship and Collaboration</h2>
     <div
       class="flex gap-8 md:gap-20 items-center justify-center mt-10 flex-wrap"
     >
-      <Icon class="h-8 md:h-14" name="simple-icons:nuxtdotjs" size="48" />
-      <Icon class="h-8 md:h-14" name="simple-icons:tailwindcss" size="48" />
-      <Icon class="h-8 md:h-14" name="simple-icons:vuedotjs" size="48" />
-      <Icon class="h-8 md:h-14" name="simple-icons:html5" size="48" />
-      <Icon class="h-8 md:h-12" name="simple-icons:vercel" size="48" />
-      <Icon class="h-8 md:h-12" name="simple-icons:netlify" size="48" />
+    <!-- Card -->
+    <div class="align-center hover:scale-125 ease-in duration-300">
+      <Icon class="h-8 md:h-14 mx-auto" name="simple-icons:nuxtdotjs" size="48" />
+      <p class="text-lg mt-2 text-center text-slate-600 font-semibold">kamaba salatiga</p>
+    </div>
+    <div class="align-center hover:scale-125 ease-in duration-300">
+      <Icon class="h-8 md:h-14 mx-auto" name="simple-icons:nuxtdotjs" size="48" />
+      <p class="text-lg mt-2 text-center text-slate-600 font-semibold">kamaba solo</p>
+    </div>
+    <div class="align-center hover:scale-125 ease-in duration-300">
+      <Icon class="h-8 md:h-14 mx-auto" name="simple-icons:nuxtdotjs" size="48" />
+      <p class="text-lg mt-2 text-center text-slate-600 font-semibold">impara walisongo</p>
+    </div>
+    <div class="align-center hover:scale-125 ease-in duration-300">
+      <Icon class="h-8 md:h-14 mx-auto" name="simple-icons:nuxtdotjs" size="48" />
+      <p class="text-lg mt-2 text-center text-slate-600 font-semibold">kamaba semarang</p>
+    </div>
     </div>
   </div>
 </template>

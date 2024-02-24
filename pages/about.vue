@@ -41,18 +41,24 @@ const team = [
 <template>
   <LandingContainer>
     <LandingSectionhead>
-      <template v-slot:title>About</template>
-      <template v-slot:desc>We are a small passionate team.</template>
+      <template v-slot:title>About KAMABA</template>
+      <template v-slot:desc>Keluarga Mahasiswa Blora Yogyakarta</template>
     </LandingSectionhead>
 
     <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
       <h2 class="font-bold text-3xl text-gray-800">
-        Empowering the world with Nuxt.
+        History of Blora
       </h2>
       <p class="text-lg leading-relaxed text-slate-500">
-        We're a multi-cultural team from around the world! We come from diverse
-        backgrounds, bringing different personalities, experiences and skills to
-        the job. This is what makes our team so special.
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam ex id iure facere deleniti in perspiciatis asperiores nobis quod eaque? Excepturi, consectetur illo cumque accusantium animi tenetur quidem necessitatibus ducimus?
+      </p>
+    </div>
+    <div class="flex flex-col gap-3 mx-auto max-w-4xl mt-16">
+      <h2 class="font-bold text-3xl text-gray-800">
+        History of KAMABA
+      </h2>
+      <p class="text-lg leading-relaxed text-slate-500">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus asperiores nihil quo iure quisquam. Veniam culpa maxime, facere beatae earum atque labore dolorum, debitis explicabo exercitationem, hic sunt ab!
       </p>
     </div>
     <div class="grid md:grid-cols-3 gap-10 mx-auto max-w-4xl mt-12">
