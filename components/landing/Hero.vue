@@ -3,7 +3,7 @@
     <div class="p-24 md:order-1 hidden md:block">
       <img
         class=" transition-transform transform hover:scale-125"
-        src="~/assets/img/Logo Kamaba.png"
+        src="~/assets/img/Kamaba.png"
         alt="Starship starts the engine"
         loading="eager"
         format="avif"
